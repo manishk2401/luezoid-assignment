@@ -1,0 +1,8 @@
+.cardFooter {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  padding: 0px 10px;
+  text-decoration: none;
+}
